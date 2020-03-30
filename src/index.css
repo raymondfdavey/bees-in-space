@@ -50,3 +50,7 @@ img {
     transform: rotate(359deg);
   }
 }
+
+audio {
+  display: none;
+}
