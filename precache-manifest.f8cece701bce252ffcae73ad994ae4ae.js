@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e86375bda7129f02f5a0ea8c980c387",
+    "revision": "c8bbb65fe0059d74c625811d45b31901",
     "url": "/bees-in-space/index.html"
   },
   {
-    "revision": "01b7f952fa83129fc85c",
-    "url": "/bees-in-space/static/css/main.7e67293d.chunk.css"
+    "revision": "78e2a5c4efe0ab599977",
+    "url": "/bees-in-space/static/css/main.bea420eb.chunk.css"
   },
   {
     "revision": "2eb5624ce348d1bbef90",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bees-in-space/static/js/2.3b35bcac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01b7f952fa83129fc85c",
+    "revision": "78e2a5c4efe0ab599977",
     "url": "/bees-in-space/static/js/main.1bbe670c.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bees-in-space/static/css/main.7e67293d.chunk.css",
+    "main.css": "/bees-in-space/static/css/main.bea420eb.chunk.css",
     "main.js": "/bees-in-space/static/js/main.1bbe670c.chunk.js",
     "main.js.map": "/bees-in-space/static/js/main.1bbe670c.chunk.js.map",
     "runtime-main.js": "/bees-in-space/static/js/runtime-main.8f18d192.js",
@@ -8,9 +8,9 @@
     "static/js/2.3b35bcac.chunk.js": "/bees-in-space/static/js/2.3b35bcac.chunk.js",
     "static/js/2.3b35bcac.chunk.js.map": "/bees-in-space/static/js/2.3b35bcac.chunk.js.map",
     "index.html": "/bees-in-space/index.html",
-    "precache-manifest.c8ee4386a62f086c3d568df3359392ee.js": "/bees-in-space/precache-manifest.c8ee4386a62f086c3d568df3359392ee.js",
+    "precache-manifest.f8cece701bce252ffcae73ad994ae4ae.js": "/bees-in-space/precache-manifest.f8cece701bce252ffcae73ad994ae4ae.js",
     "service-worker.js": "/bees-in-space/service-worker.js",
-    "static/css/main.7e67293d.chunk.css.map": "/bees-in-space/static/css/main.7e67293d.chunk.css.map",
+    "static/css/main.bea420eb.chunk.css.map": "/bees-in-space/static/css/main.bea420eb.chunk.css.map",
     "static/js/2.3b35bcac.chunk.js.LICENSE.txt": "/bees-in-space/static/js/2.3b35bcac.chunk.js.LICENSE.txt",
     "static/media/BEE-BCKRD.png": "/bees-in-space/static/media/BEE-BCKRD.7323f5f0.png",
     "static/media/danube.mp3": "/bees-in-space/static/media/danube.f649074e.mp3"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f18d192.js",
     "static/js/2.3b35bcac.chunk.js",
-    "static/css/main.7e67293d.chunk.css",
+    "static/css/main.bea420eb.chunk.css",
     "static/js/main.1bbe670c.chunk.js"
   ]
 }
