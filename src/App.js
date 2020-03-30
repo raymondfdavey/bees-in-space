@@ -1,20 +1,24 @@
 import React, { Component } from "react";
 import bee from "./img/BEE-BCKRD.png";
-import space from "./img/SPACE.jpg";
-import Particles from "react-particles-js";
 import danube from "./music/danube.mp3";
 
 class App extends Component {
-  state = { bees: null, space: null, beesFree: false };
+  state = { bees: null, beesFree: false };
   render() {
-    const { bees, space, beesFree } = this.state;
+    const { bees, beesFree } = this.state;
 
     return (
       <div className={"content"}>
         <div className={"beeContainer"}>
           {bees &&
             bees.map(eachBee => {
-              return <img src={bee} className={beesFree && "rotate"} />;
+              return (
+                <img
+                  src={bee}
+                  className={beesFree && "rotate"}
+                  alt={"small bee"}
+                />
+              );
             })}
           {bees && beesFree && <audio autoplay="true" src={danube} />}
         </div>
