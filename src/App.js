@@ -17,7 +17,7 @@ class App extends Component {
         </div>
         <div className={"buttons"}>
           <button onClick={() => this.addBee()}>BEES</button>
-          <button onClick={() => this.makeBeesFree()}>BEE FREE</button>
+          <button onClick={() => this.makeBeesFree()}>BEE FREE!</button>
         </div>
       </div>
     );
