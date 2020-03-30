@@ -1,3 +1,7 @@
+AMAZIN BEE PAGE
+
+DONT ACTUALLY KNOW WHAT TO PUT HERE OR WHAT YOU NEED TO DO TO MAKE IT WORK BUT PRETTY SURE NPM START WILL PLAY A BIG ROLL. AND POSSIBLY NPM I ALTHOUGH IT DOESNT HAVE ANY DEPENDENCIES
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
