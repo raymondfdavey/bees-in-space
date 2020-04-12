@@ -12,7 +12,7 @@ class App extends Component {
       <div className={"content"}>
         <div className={"beeContainer"}>
           {bees &&
-            bees.map(eachBee => {
+            bees.map((eachBee) => {
               return (
                 <img
                   src={bee}
@@ -24,7 +24,7 @@ class App extends Component {
           {bees && beesFree && (
             <>
               <audio autoplay="true" src={danube} />
-              <Particles
+              {/* <Particles
                 className={"particles"}
                 params={{
                   particles: {
@@ -60,7 +60,7 @@ class App extends Component {
                   },
                   retina_detect: false
                 }}
-              />
+              /> */}
             </>
           )}
         </div>
