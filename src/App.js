@@ -24,43 +24,6 @@ class App extends Component {
           {bees && beesFree && (
             <>
               <audio autoplay="true" src={danube} />
-              {/* <Particles
-                className={"particles"}
-                params={{
-                  particles: {
-                    number: {
-                      value: bees.length
-                    },
-                    move: {
-                      speed: 1
-                    },
-                    shape: {
-                      type: ["images", "circle"],
-                      images: [
-                        {
-                          src: bee,
-                          height: 20,
-                          width: 23
-                        }
-                      ]
-                    },
-                    color: {
-                      value: "#CCC"
-                    },
-                    size: {
-                      value: 30,
-                      random: false,
-                      anim: {
-                        enable: true,
-                        speed: 4,
-                        size_min: 20,
-                        sync: false
-                      }
-                    }
-                  },
-                  retina_detect: false
-                }}
-              /> */}
             </>
           )}
         </div>
